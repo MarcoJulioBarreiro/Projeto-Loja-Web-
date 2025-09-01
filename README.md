@@ -1,4 +1,3 @@
-Perfeito 👌 então aqui está um **README.md** pronto em estilo GitHub, baseado no relatório que já montamos. Você só precisa salvar este conteúdo em um arquivo chamado `README.md` na raiz do projeto (`LOJA2/`):
 
 ```markdown
 # 🛒 Loja Virtual - Spring Boot
@@ -92,10 +91,3 @@ LOJA2/
 ## 📖 Licença
 
 Este projeto é de uso acadêmico e livre para fins de estudo.
-
-```
-
----
-
-👉 Você quer que eu também monte um `.gitignore` específico para o seu projeto **Java + Spring Boot + Eclipse**, para colar direto no repositório junto com o README?
-```
