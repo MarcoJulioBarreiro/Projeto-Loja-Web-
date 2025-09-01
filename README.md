@@ -3,7 +3,7 @@
 # 🛒 Loja Virtual - Spring Boot
 
 ## 📌 Autor
-**Marco Júlio Barreiro**
+**Marco Julio Barreiro**
 
 ---
 
